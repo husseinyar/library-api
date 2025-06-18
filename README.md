@@ -21,3 +21,15 @@ A RESTful API for managing book rentals with Jest testing. Built with Node.js, E
 ```bash
 git clone https://github.com/husseinyar/library-api.git
 cd library-api/backendtest
+
+ Install dependencies
+   npm install
+
+Run the application
+   npm run dev
+
+Run Testing
+  npm test
+  npm run test:coverage
+  npm run test:watch
+
