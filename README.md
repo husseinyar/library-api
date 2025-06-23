@@ -1,6 +1,6 @@
 # Library API 
 
-A RESTful API for managing book rentals with Jest testing. Built with Node.js, Express, and TypeScript.
+A REST API for managing book rentals with Jest testing. Built with Node.js, Express, and TypeScript.
 
 ## Features
 - Book management (CRUD operations)
